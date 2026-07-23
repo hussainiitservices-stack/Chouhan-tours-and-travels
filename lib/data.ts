@@ -87,10 +87,6 @@ export const taxiServices = [
     desc: "Hire taxi for one-way drop or pickup.",
   },
   {
-    title: "VIP Darshan",
-    desc: "Special taxi services for VIP darshan.",
-  },
-  {
     title: "Poojan Facilities",
     desc: "Special taxi services for poojan and rituals.",
   },

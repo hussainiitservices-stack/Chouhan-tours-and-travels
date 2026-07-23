@@ -5,8 +5,14 @@ import { packages, routes } from "@/lib/data";
 import { site, waLink } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Packages",
+  title: "Tour Packages | Ujjain, Omkareshwar, Mandu & More",
   description: `Pilgrimage and sightseeing tour packages across Ujjain, Omkareshwar, Mandu, Bhopal and more with ${site.name}.`,
+  alternates: { canonical: "/packages" },
+  openGraph: {
+    title: `Tour Packages | ${site.name}`,
+    description: `Ujjain darshan, Omkareshwar, Mandu, Sanchi, Pachmarhi and more with comfortable vehicles.`,
+    url: "/packages",
+  },
 };
 
 export default function PackagesPage() {

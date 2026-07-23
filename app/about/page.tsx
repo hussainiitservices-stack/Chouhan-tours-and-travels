@@ -4,8 +4,14 @@ import { aboutStats, features } from "@/lib/data";
 import { site } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "About",
-  description: `Learn about ${site.name} — trusted car rental and tour services across Madhya Pradesh.`,
+  title: "About Us | Trusted Travel Partner in Madhya Pradesh",
+  description: `Learn about ${site.name} — trusted car rental and tour services across Madhya Pradesh since 2012.`,
+  alternates: { canonical: "/about" },
+  openGraph: {
+    title: `About ${site.name}`,
+    description: `Trusted car rental and tour services across Madhya Pradesh since 2012.`,
+    url: "/about",
+  },
 };
 
 export default function AboutPage() {

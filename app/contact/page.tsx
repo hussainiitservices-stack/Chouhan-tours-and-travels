@@ -4,8 +4,14 @@ import { ContactForm } from "@/components/ContactForm";
 import { site, waLink } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Contact",
-  description: `Contact ${site.name} for cab bookings, airport transfers, and tour packages across Madhya Pradesh.`,
+  title: "Contact | Book Taxi & Tour Packages",
+  description: `Contact ${site.name} for cab bookings, airport transfers, and tour packages across Madhya Pradesh. Call ${site.phone} or WhatsApp.`,
+  alternates: { canonical: "/contact" },
+  openGraph: {
+    title: `Contact ${site.name}`,
+    description: `Book cabs and tour packages. Call ${site.phone} or enquire on WhatsApp.`,
+    url: "/contact",
+  },
 };
 
 export default function ContactPage() {

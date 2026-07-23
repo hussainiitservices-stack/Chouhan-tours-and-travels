@@ -4,8 +4,14 @@ import { fleet, taxiServices } from "@/lib/data";
 import { site, waLink } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Services",
+  title: "Taxi & Cab Services in Indore and Ujjain",
   description: `Car rental, airport transfers, outstation cabs, and pilgrimage taxi services by ${site.name}.`,
+  alternates: { canonical: "/services" },
+  openGraph: {
+    title: `Services | ${site.name}`,
+    description: `Airport taxi, local cabs, outstation trips, and vehicle hire across Madhya Pradesh.`,
+    url: "/services",
+  },
 };
 
 export default function ServicesPage() {
@@ -15,7 +21,7 @@ export default function ServicesPage() {
         eyebrow="Our Services"
         title="Every Ride,"
         highlight="Covered"
-        description="From airport transfers to outstation tours and VIP darshan support — book the right vehicle for every journey."
+        description="From airport transfers to outstation tours and pilgrimage support — book the right vehicle for every journey."
       />
 
       <section className="bg-cream py-20">
