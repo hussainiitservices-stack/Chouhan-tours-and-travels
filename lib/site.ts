@@ -11,9 +11,7 @@ export const site = {
   address: "Madhya Pradesh, India",
   city: "Indore & Ujjain",
   years: "15+",
-  url:
-    process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ||
-    "https://www.chouhantourandtravels.in",
+  url: "https://www.chouhantourandtravels.in",
   keywords: [
     "Chouhan Tours and Travels",
     "taxi service Indore",
