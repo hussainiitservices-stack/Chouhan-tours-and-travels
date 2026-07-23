@@ -6,11 +6,11 @@ Chouhan Tours & Travels provides safe, comfortable, and affordable taxi and tour
 
 ## Pages
 
-- [Home](https://chouhantourtravels.com/): Main landing page with fleet, packages, and booking options
-- [About](https://chouhantourtravels.com/about): Company story, experience, and why travelers choose us
-- [Services](https://chouhantourtravels.com/services): Airport taxi, local cabs, outstation trips, and vehicle rates
-- [Packages](https://chouhantourtravels.com/packages): Ujjain darshan, Omkareshwar, Mandu, Sanchi, Pachmarhi and more
-- [Contact](https://chouhantourtravels.com/contact): Enquiry form, phone, WhatsApp, and email booking
+- [Home](https://www.chouhantourandtravels.in/): Main landing page with fleet, packages, and booking options
+- [About](https://www.chouhantourandtravels.in/about): Company story, experience, and why travelers choose us
+- [Services](https://www.chouhantourandtravels.in/services): Airport taxi, local cabs, outstation trips, and vehicle rates
+- [Packages](https://www.chouhantourandtravels.in/packages): Ujjain darshan, Omkareshwar, Mandu, Sanchi, Pachmarhi and more
+- [Contact](https://www.chouhantourandtravels.in/contact): Enquiry form, phone, WhatsApp, and email booking
 
 ## Services
 
@@ -39,5 +39,5 @@ Chouhan Tours & Travels provides safe, comfortable, and affordable taxi and tour
 
 ## Optional
 
-- [Sitemap](https://chouhantourtravels.com/sitemap.xml): Full list of indexable URLs
-- [Robots](https://chouhantourtravels.com/robots.txt): Crawler access rules
+- [Sitemap](https://www.chouhantourandtravels.in/sitemap.xml): Full list of indexable URLs
+- [Robots](https://www.chouhantourandtravels.in/robots.txt): Crawler access rules

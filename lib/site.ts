@@ -13,7 +13,7 @@ export const site = {
   years: "15+",
   url:
     process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ||
-    "https://chouhantravels.com",
+    "https://www.chouhantourandtravels.in",
   keywords: [
     "Chouhan Tours and Travels",
     "taxi service Indore",
